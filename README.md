@@ -23,8 +23,15 @@ npm run newstart
 
 
 Also had to update the requirements for the python load generator:
+
+```
 pip3 install selenium
+```
+
+```
 pip3 install webdriver-manager
+```
+
 
 ## Contributing
 
