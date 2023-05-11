@@ -21,6 +21,11 @@ npm run build
 npm run newstart
 ```
 
+
+Also had to update the requirements for the python load generator:
+pip3 install selenium
+pip3 install webdriver-manager
+
 ## Contributing
 
 We encourage your contributions to improve [project name]! Keep in mind when you submit your pull request, you'll need to sign the CLA via the click-through using CLA-Assistant. You only have to sign the CLA one time per project.
